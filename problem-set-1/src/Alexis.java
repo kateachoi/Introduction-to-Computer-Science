@@ -2,7 +2,7 @@
  * @file Alexis.java
  * @brief This program introduces Alexis, a simple AI personal assistant to have interesting conversations with the user.
  * @author Kate Choi
- * @date 10/10/2023
+ * @date 9/15/2023
  ***********************************************************************/
 
 import java.util.Scanner;

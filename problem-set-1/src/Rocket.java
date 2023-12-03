@@ -2,7 +2,7 @@
  * @file Rocket.java
  * @brief This program creates a rocket using different methods to avoid redundancy.
  * @author Kate Choi
- * @date 10/10/2023
+ * @date 9/15/2023
  ***********************************************************************/
 public class Rocket {
 

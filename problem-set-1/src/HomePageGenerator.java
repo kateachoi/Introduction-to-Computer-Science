@@ -2,7 +2,7 @@
  * @file HomePageGenerator.java
  * @brief This program generates a simple homepage for the user with information inputted by the user, incorporating HTML.
  * @author Kate Choi
- * @date 10/10/2023
+ * @date 9/15/2023
  ***********************************************************************/
 
 import java.io.BufferedWriter;
