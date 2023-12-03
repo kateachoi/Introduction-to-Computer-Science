@@ -34,41 +34,41 @@ public class HomePageGenerator {
         String hobby3;
 
         // Gather user information
-        System.out.println("What is your name?");
+        System.out.print("What is your name? ");
         name = hpg.nextLine();
 
-        System.out.println("Where were you born, " + name + "?");
+        System.out.print("Where were you born, " + name + "? ");
         birthPlace = hpg.nextLine();
 
-        System.out.println("Are you a daughter or a son, " + name + "?");
+        System.out.print("Are you a daughter or a son, " + name + "? ");
         gender = hpg.nextLine();
 
-        System.out.println("What is your mother's name, " + name + "?");
+        System.out.print("What is your mother's name, " + name + "? ");
         mom = hpg.nextLine();
 
-        System.out.println("And your father's name?");
+        System.out.print("And your father's name? ");
         dad = hpg.nextLine();
 
-        System.out.println("Where do you currently live, " + name + "?");
+        System.out.print("Where do you currently live, " + name + "? ");
         currentPlace = hpg.nextLine();
 
-        System.out.println("What do you do for work?");
+        System.out.print("What do you do for work? ");
         job = hpg.nextLine();
 
-        System.out.println("Where do you work as a " + job + ", " + name + "?");
+        System.out.print("Where do you work as a " + job + ", " + name + "? ");
         workPlace = hpg.nextLine();
 
-        System.out.println("Not to get too personal, but who are you dating?");
+        System.out.print("Not to get too personal, but who are you dating? ");
         significantOther = hpg.nextLine();
 
         // List of three hobbies
-        System.out.println("What is your favorite hobby?");
+        System.out.print("What is your favorite hobby? ");
         hobby1 = hpg.nextLine();
 
-        System.out.println("What is your second favorite hobby?");
+        System.out.print("What is your second favorite hobby? ");
         hobby2 = hpg.nextLine();
 
-        System.out.println("What is your third favorite hobby?");
+        System.out.print("What is your third favorite hobby? ");
         hobby3 = hpg.nextLine();
 
 
