@@ -11,3 +11,7 @@ definition of a new Java class.
 file.
 3) The project should include a text-based Readme file briefly explaining the purpose and functionality of
 your Java application. Also, list design decisions made during implementation of the code.
+
+# Note:
+In order to implement topics discussed about classes, subclasses, and interfaces, this project was completed by 
+following the following video: https://www.youtube.com/watch?v=K9qMm3JbOH0
