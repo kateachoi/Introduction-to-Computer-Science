@@ -1,13 +1,8 @@
 /**********************************************************************
  * @file TicTacToe2.java
- * @brief Tic-tac-toe game for two players to alternate, first player is always X.
- * Checks for wins using a 2D int array where 0 indicates an empty cell,
- * 1 indicates a cell filled by X, and 2 a cell filled by O, and prevents
- * a player from clicking a filled cell.
- * Automatically stops when someone wins, or the board is full (tie).
- * Problems during development: centering the X or O in the middle of the box
- * no matter where the player clicked, knowing when to switch turns based
- * off of which player just went, and doing so when someone wins.
+ * @brief Tic-tac-toe game for two players to alternate, first player is always X. Checks for wins using a 2D int
+ * array where 0 indicates an empty cell, 1 indicates a cell filled by X, and 2 a cell filled by O, and prevents a
+ * player from clicking a filled cell. Automatically stops when someone wins, or the board is full (tie).
  * @author Kate Choi
  * @date 11/2/2023
  ***********************************************************************/
@@ -15,7 +10,7 @@
 import java.awt.*;
 import java.util.Arrays;
 
-public class TicTacToe {
+public class TicTacToe2 {
     final static int BOX_SIZE = 100;
     final static int BOARD_SIZE = 3 * (BOX_SIZE);
     final static int WINDOW_WIDTH = BOARD_SIZE;
