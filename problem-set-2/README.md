@@ -8,7 +8,7 @@ Write a Java program, called GPACalculator, that first asks the user for the num
 should asks the user to input the number of credits and the predicted letter grade for each course.
 
 ## 2. Black Jack
-Implement a simplified version of the Blackjack game in java. Develop your code incrementally and test your code 
+Implement a simplified version of the BlackJack game in java. Develop your code incrementally and test your code 
 frequently. The player (i.e., the user) inputs h to choose hit and s to choose stand. The dealer (i.e., the computer) 
 runs automatically without user intervention. At the end of each turn, the player has the option to play another round 
 (y) or end the game (n). Your program should continue prompting the user for valid input if it receives any input other
