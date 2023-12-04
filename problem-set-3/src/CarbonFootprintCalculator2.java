@@ -1,5 +1,5 @@
 /**********************************************************************
- * @file CarbonFootprintCalculator.java
+ * @file CarbonFootprintCalculator2.java
  * @brief Displays menu of 20 food items as an array, with number of calories user chooses to input next to it.
  * Adds up all the calories from user input to calculate daily and annual carbon footprint.
  * Allows for user to choose the same option multiple times; total cal per option is accumulated; it does not reset.
