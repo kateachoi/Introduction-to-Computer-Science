@@ -1,5 +1,5 @@
 # Introduction to Computer Science
-Projects from Fall 2023 for Introduction to Computer Science (CSC11) course in Java
+Projects from Fall 2023 for Introduction to Computer Science (CSC111) course in Java
 
 # Course Overview
 This course is an introduction to the basic concepts of computer programming and algorithmic
